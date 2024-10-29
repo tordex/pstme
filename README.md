@@ -1,6 +1,6 @@
 # PSTME - paste text chunks into applications
 
-<div style="text-align:center"><img src="images/screeshot.jpg" /></div>
+<div style="text-align:center"><img src="images/screeshot.png" /></div>
 
 PSTME helps to paste the selected text chunks into any applications. Actually PSTME just writes the selected text chunk to the stdout. I recommend [ydotool](https://github.com/ReimuNotMoe/ydotool) as tool to insert text from PSTME into any application.
 
