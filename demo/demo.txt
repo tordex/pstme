@@ -1,0 +1,22 @@
+Commands
+--
+disk usage
+disk
+df -h
+--
+Window 11
+win11
+sudo virsh start win11
+--
+looking-glass
+glass
+looking-glass-client spice:scaleCursor=no wayland:fractionScale=no
+--
+login to my website
+login;web
+user	password
+--
+my address
+addr
+Main str.	13	67
+--
